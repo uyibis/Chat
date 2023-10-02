@@ -52,12 +52,12 @@
 
     // Your web app's Firebase configuration
     const firebaseConfig = {
-        apiKey: "AIzaSyBoEjP7yzNwfwc8e98qYMLR0hWxcFp2RFk",
-        authDomain: "prochat-84254.firebaseapp.com",
-        projectId: "prochat-84254",
-        storageBucket: "prochat-84254.appspot.com",
-        messagingSenderId: "733204794414",
-        appId: "1:733204794414:web:80ebd2749ec5e034f863bf"
+        apiKey: "",
+        authDomain: "",
+        projectId: "",
+        storageBucket: "",
+        messagingSenderId: "",
+        appId: ""
     };
 
     const app = initializeApp(firebaseConfig);
